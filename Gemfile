@@ -30,6 +30,8 @@ gem 'bootstrap-daterangepicker-rails'
 # gem 'wkhtmltopdf-binary'
 # # gem 'wkhtmltopdf-heroku'
 
+# New Feature
+
 # API Stuff
 gem 'grape'
 gem 'grape-entity'
